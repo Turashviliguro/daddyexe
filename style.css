@@ -10,7 +10,7 @@
 
 body::after {
   content: "";
-  background: url(img/bg.png);
+  background: black);
   background-size: cover;
   opacity: 100;
   top: 0;
